@@ -1,1 +1,7 @@
+fastapi
+uvicorn      
+python-jose
+openai
+faster-whisper
+requests
 
